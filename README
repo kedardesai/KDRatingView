@@ -1,0 +1,21 @@
+KDRatingView
+--------------------
+
+
+KDRatingView is the simple view that provides rating stars as per your requirement.
+
+Here are steps to use KDRatingView:
+
+1. Import KDRatingView.h
+2. Initialise object of KDRatingView with frame.
+3. Use "rateKDRatingView" method for initialised object.
+4. Add this object to your view.
+
+Here is an example of using KDRatingView:
+
+	KDRatingView *myRatingView1 = [[KDRatingView alloc] initWithFrame:CGRectMake(10, 90, 60, 20)];
+    [myRatingView1 rateKDRatingView:2.80 outOf:3.0];
+    [self.view addSubview:myRatingView1];
+
+
+You can use these classes. If you want to use different images for the same, You can put different images with same name.
