@@ -13,7 +13,7 @@ Here are steps to use KDRatingView:
 
 Here is an example of using KDRatingView:
 
-	KDRatingView *myRatingView1 = [[KDRatingView alloc] initWithFrame:CGRectMake(10, 90, 60, 20)];
+    KDRatingView *myRatingView1 = [[KDRatingView alloc] initWithFrame:CGRectMake(10, 90, 60, 20)];
     [myRatingView1 rateKDRatingView:2.80 outOf:3.0];
     [self.view addSubview:myRatingView1];
 
