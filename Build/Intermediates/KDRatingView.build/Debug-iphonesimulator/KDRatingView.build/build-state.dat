@@ -1,0 +1,570 @@
+TKDRatingView
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/Info.plist /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView-Info.plist
+cProcessPCH /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/PrecompiledHeaders/KDRatingView-Prefix-dukhgqdiiugegffyzvxmyqbwkedq/KDRatingView-Prefix.pch.pch KDRatingView/KDRatingView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/main.o /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDAppDelegate.o /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDMainViewController.o /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDMainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDRatingView.o /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView/KDRatingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/KDRatingView normal i386
+cGenerateDSYMFile /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app.dSYM /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/KDRatingView
+cCpResource KDRatingView/Images/yellow/3:4_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star@2x.png
+cCpResource KDRatingView/Images/yellow/1:4_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star@2x.png
+cCpResource KDRatingView/Images/yellow/3:4_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star.png
+cCpResource KDRatingView/Images/grey_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/grey_star.png
+cCpResource KDRatingView/Images/yellow/1:4_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star.png
+cCpResource KDRatingView/Images/yellow/1_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1_star@2x.png
+cCpResource KDRatingView/Images/grey_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/grey_star@2x.png
+cCpResource KDRatingView/Images/yellow/1:2_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star@2x.png
+cCopyStringsFile /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/en.lproj/InfoPlist.strings KDRatingView/en.lproj/InfoPlist.strings
+cCpResource KDRatingView/Default.png Build/Products/Debug-iphonesimulator/KDRatingView.app/Default.png
+cCpResource KDRatingView/Images/yellow/1:2_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star.png
+cCpResource KDRatingView/Default@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/Default@2x.png
+cCpResource KDRatingView/Default-568h@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/Default-568h@2x.png
+cTouch /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005258E59B00000000000003B5
+t1381557659
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005258E5A700000000000001A0
+t1381557671
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005258E5AB0000000000445870
+t1381557675
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005258E5AD000000000088C680
+t1381557677
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005258E5B40000000001DB9910
+t1381557684
+s31168784
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDAppDelegate.o
+t1393926623
+s69276
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDMainViewController.o
+t1393926624
+s46416
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDRatingView.LinkFileList
+c000000005315A1DE0000000000000271
+t1393926622
+s625
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDRatingView.o
+t1393926624
+s47276
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/main.o
+t1393926623
+s3428
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/PrecompiledHeaders/KDRatingView-Prefix-dukhgqdiiugegffyzvxmyqbwkedq/KDRatingView-Prefix.pch.pch
+t1393926622
+s5342392
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app
+t1393926624
+s612
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app.dSYM
+t2
+s0
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star.png
+t1393926624
+s1382
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star@2x.png
+t1393926624
+s3538
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star.png
+t1393926624
+s1353
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star@2x.png
+t1393926624
+s3474
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/1_star@2x.png
+t1393926624
+s3700
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star.png
+t1393926624
+s1409
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star@2x.png
+t1393926624
+s3607
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/Default-568h@2x.png
+t1393926624
+s18594
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/Default.png
+t1393926624
+s6540
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/Default@2x.png
+t1393926624
+s16107
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/Info.plist
+t1393926622
+s1017
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/KDRatingView
+t1393926624
+s38188
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/PkgInfo
+t1393926622
+s8
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/en.lproj/InfoPlist.strings
+t1393926624
+s42
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/grey_star.png
+t1393926624
+s2921
+
+N/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/grey_star@2x.png
+t1393926624
+s3262
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Default-568h@2x.png
+c00000000515C9E6200000000000048A2
+t1365024354
+s18594
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Default.png
+c00000000515C9E62000000000000198C
+t1365024354
+s6540
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Default@2x.png
+c00000000515C9E620000000000003EEB
+t1365024354
+s16107
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/grey_star.png
+c00000000531570510000000000000B69
+t1393913937
+s2921
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/grey_star@2x.png
+c00000000531570820000000000000CBE
+t1393913986
+s3262
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/yellow/1:2_star.png
+c0000000053156FE50000000000000566
+t1393913829
+s1382
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/yellow/1:2_star@2x.png
+c00000000531570900000000000000DD2
+t1393914000
+s3538
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/yellow/1:4_star.png
+c0000000053156FE70000000000000549
+t1393913831
+s1353
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/yellow/1:4_star@2x.png
+c00000000531570910000000000000D92
+t1393914001
+s3474
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/yellow/1_star@2x.png
+c00000000531570830000000000000E74
+t1393913987
+s3700
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/yellow/3:4_star.png
+c0000000053156FEA0000000000000581
+t1393913834
+s1409
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/yellow/3:4_star@2x.png
+c00000000531570920000000000000E17
+t1393914002
+s3607
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDAppDelegate.m
+c000000005315738600000000000009DF
+t1393914758
+s2527
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDMainViewController.m
+c000000005315A1D500000000000006A9
+t1393926613
+s1705
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView-Info.plist
+c00000000531572AB00000000000005B5
+t1393914539
+s1461
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView-Prefix.pch
+c00000000531572AB0000000000000147
+t1393914539
+s327
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView/KDRatingView.m
+c000000005315A0240000000000000983
+t1393926180
+s2435
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/en.lproj/InfoPlist.strings
+c00000000531572AB000000000000002D
+t1393914539
+s45
+
+N/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/main.m
+c00000000531572AB000000000000015B
+t1393914539
+s347
+
+CBuild AST from /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDAppDelegate.m
+r0
+
+CBuild AST from /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDMainViewController.m
+r0
+
+CBuild AST from /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView/KDRatingView.m
+r0
+
+CBuild AST from /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd26ef85dd9c5b841^7957055ed9c5b841^---0#1#1#--18"Check dependencies36"CE16E3DC-343C-40F6-BF2D-171EFC7A55D1-
+
+CCompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDAppDelegate.o /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415619422.995302
+e415619423.452668
+r1
+xCompileC
+xBuild/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDAppDelegate.o
+x/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDAppDelegate.m
+d/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDAppDelegate.h
+d/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDMainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDAppDelegate.m221"CompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDAppDelegate.o KDRatingView/KDAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc4ebfe5ed9c5b841^d6e2735fd9c5b841^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDAppDelegate.m0000000000000000^3661"CompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDAppDelegate.o KDRatingView/KDAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-generated-files.hmap -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-own-target-headers.hmap -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-all-target-headers.hmap -iquote /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-project-headers.hmap -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/DerivedSources/i386 -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/DerivedSources -F/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator -include /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/PrecompiledHeaders/KDRatingView-Prefix-dukhgqdiiugegffyzvxmyqbwkedq/KDRatingView-Prefix.pch -MMD -MT dependencies -MF /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDAppDelegate.d --serialize-diagnostics /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDAppDelegate.dia -c /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDAppDelegate.m -o /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDAppDelegate.o36"8A7A64A1-0903-4FBD-A564-DAD08FB99F27-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDMainViewController.o /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDMainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415619423.437468
+e415619424.129619
+r1
+xCompileC
+xBuild/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDMainViewController.o
+x/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDMainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDMainViewController.m
+d/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDMainViewController.h
+d/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView/KDRatingView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDMainViewController.m235"CompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDMainViewController.o KDRatingView/KDMainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere92b705fd9c5b841^b22f2160d9c5b841^---0#0#1#-19%DVTDocumentLocation2@92"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDMainViewController.m0000000000000000^3703"CompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDMainViewController.o KDRatingView/KDMainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-generated-files.hmap -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-own-target-headers.hmap -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-all-target-headers.hmap -iquote /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-project-headers.hmap -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/DerivedSources/i386 -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/DerivedSources -F/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator -include /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/PrecompiledHeaders/KDRatingView-Prefix-dukhgqdiiugegffyzvxmyqbwkedq/KDRatingView-Prefix.pch -MMD -MT dependencies -MF /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDMainViewController.d --serialize-diagnostics /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDMainViewController.dia -c /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDMainViewController.m -o /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDMainViewController.o36"70B3FD9E-406D-4AA6-98A6-BAA861E89965-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDRatingView.o /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView/KDRatingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415619423.455095
+e415619424.144709
+r1
+xCompileC
+xBuild/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDRatingView.o
+x/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView/KDRatingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView/KDRatingView.m
+d/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView/KDRatingView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView/KDRatingView.m232"CompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDRatingView.o KDRatingView/KDRatingView/KDRatingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler55a6745fd9c5b841^910c2560d9c5b841^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView/KDRatingView.m0000000000000000^3681"CompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDRatingView.o KDRatingView/KDRatingView/KDRatingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-generated-files.hmap -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-own-target-headers.hmap -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-all-target-headers.hmap -iquote /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-project-headers.hmap -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/DerivedSources/i386 -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/DerivedSources -F/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator -include /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/PrecompiledHeaders/KDRatingView-Prefix-dukhgqdiiugegffyzvxmyqbwkedq/KDRatingView-Prefix.pch -MMD -MT dependencies -MF /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDRatingView.d --serialize-diagnostics /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDRatingView.dia -c /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView/KDRatingView.m -o /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDRatingView.o36"0002AA36-C116-407A-8A97-7271D07C2BEE-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/main.o /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415619422.994644
+e415619423.435821
+r1
+xCompileC
+xBuild/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/main.o
+x/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/main.m
+d/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/main.m203"CompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/main.o KDRatingView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1dc8fe5ed9c5b841^9f926f5fd9c5b841^---0#0#1#-19%DVTDocumentLocation2@76"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/main.m0000000000000000^3607"CompileC Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/main.o KDRatingView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-generated-files.hmap -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-own-target-headers.hmap -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-all-target-headers.hmap -iquote /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-project-headers.hmap -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/DerivedSources/i386 -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/DerivedSources -F/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator -include /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/PrecompiledHeaders/KDRatingView-Prefix-dukhgqdiiugegffyzvxmyqbwkedq/KDRatingView-Prefix.pch -MMD -MT dependencies -MF /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/main.dia -c /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/main.m -o /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/main.o36"4571BAE9-586E-45DC-A3AB-0187A4C9598B-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCopyStringsFile /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/en.lproj/InfoPlist.strings KDRatingView/en.lproj/InfoPlist.strings
+s415619424.542625
+e415619424.554664
+r1
+xCopyStringsFile
+x/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/en.lproj/InfoPlist.strings
+xKDRatingView/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy KDRatingView/en.lproj/InfoPlist.strings136"CopyStringsFile Build/Products/Debug-iphonesimulator/KDRatingView.app/en.lproj/InfoPlist.strings KDRatingView/en.lproj/InfoPlist.strings72fa8a60d9c5b841^4b008e60d9c5b841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/en.lproj/InfoPlist.strings0000000000000000^617"CopyStringsFile Build/Products/Debug-iphonesimulator/KDRatingView.app/en.lproj/InfoPlist.strings KDRatingView/en.lproj/InfoPlist.strings    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/en.lproj -- KDRatingView/en.lproj/InfoPlist.strings36"6F7F2019-81F1-45FC-99E7-963954614D98-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCpResource KDRatingView/Default-568h@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/Default-568h@2x.png
+s415619424.556628
+e415619424.559487
+r1
+xCpResource
+xKDRatingView/Default-568h@2x.png
+xBuild/Products/Debug-iphonesimulator/KDRatingView.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy Build/Products/Debug-iphonesimulator/KDRatingView.app/Default-568h@2x.png117"CpResource KDRatingView/Default-568h@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/Default-568h@2x.png14948e60d9c5b841^fb3b8f60d9c5b841^---0#0#1#-19%DVTDocumentLocation2@130"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/Default-568h@2x.png003890e4deffdf42^642"CpResource KDRatingView/Default-568h@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/Default-568h@2x.png    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Default-568h@2x.png /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app36"5934E3BB-5927-40A0-8F33-B8717904894B-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCpResource KDRatingView/Default.png Build/Products/Debug-iphonesimulator/KDRatingView.app/Default.png
+s415619424.545091
+e415619424.547588
+r1
+xCpResource
+xKDRatingView/Default.png
+xBuild/Products/Debug-iphonesimulator/KDRatingView.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy Build/Products/Debug-iphonesimulator/KDRatingView.app/Default.png101"CpResource KDRatingView/Default.png Build/Products/Debug-iphonesimulator/KDRatingView.app/Default.png2ba18b60d9c5b841^f1488c60d9c5b841^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/Default.png003890e4deffdf42^618"CpResource KDRatingView/Default.png Build/Products/Debug-iphonesimulator/KDRatingView.app/Default.png    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Default.png /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app36"8D4356D4-54D4-4BF0-82BB-CAFF482143BB-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCpResource KDRatingView/Default@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/Default@2x.png
+s415619424.554061
+e415619424.557173
+r1
+xCpResource
+xKDRatingView/Default@2x.png
+xBuild/Products/Debug-iphonesimulator/KDRatingView.app/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy Build/Products/Debug-iphonesimulator/KDRatingView.app/Default@2x.png107"CpResource KDRatingView/Default@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/Default@2x.pngf2e98d60d9c5b841^98a48e60d9c5b841^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/Default@2x.png003890e4deffdf42^627"CpResource KDRatingView/Default@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/Default@2x.png    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Default@2x.png /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app36"96F9EAB0-70C4-46C5-BEAA-45A27573E2E3-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCpResource KDRatingView/Images/grey_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/grey_star.png
+s415619424.522517
+e415619424.525587
+r1
+xCpResource
+xKDRatingView/Images/grey_star.png
+xBuild/Products/Debug-iphonesimulator/KDRatingView.app/grey_star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy Build/Products/Debug-iphonesimulator/KDRatingView.app/grey_star.png112"CpResource KDRatingView/Images/grey_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/grey_star.pngd4d58560d9c5b841^fc8d8660d9c5b841^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/grey_star.png003890e4deffdf42^638"CpResource KDRatingView/Images/grey_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/grey_star.png    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/grey_star.png /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app36"08DFA787-5B00-4D47-A50D-8423C52ECBC3-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCpResource KDRatingView/Images/grey_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/grey_star@2x.png
+s415619424.535952
+e415619424.538870
+r1
+xCpResource
+xKDRatingView/Images/grey_star@2x.png
+xBuild/Products/Debug-iphonesimulator/KDRatingView.app/grey_star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy Build/Products/Debug-iphonesimulator/KDRatingView.app/grey_star@2x.png118"CpResource KDRatingView/Images/grey_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/grey_star@2x.png74458960d9c5b841^5ef48960d9c5b841^---0#0#1#-19%DVTDocumentLocation2@127"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/grey_star@2x.png003890e4deffdf42^647"CpResource KDRatingView/Images/grey_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/grey_star@2x.png    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/grey_star@2x.png /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app36"6961AFF0-0256-49AD-8EF4-F15BB2CFACAD-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCpResource KDRatingView/Images/yellow/1:2_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star.png
+s415619424.549133
+e415619424.552710
+r1
+xCpResource
+xKDRatingView/Images/yellow/1:2_star.png
+xBuild/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy Build/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star.png117"CpResource KDRatingView/Images/yellow/1:2_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star.png0da78c60d9c5b841^957f8d60d9c5b841^---0#0#1#-19%DVTDocumentLocation2@123"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star.png003890e4deffdf42^649"CpResource KDRatingView/Images/yellow/1:2_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star.png    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/yellow/1:2_star.png /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app36"8D781490-C115-4FEE-A499-E9CC51CE1EFA-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCpResource KDRatingView/Images/yellow/1:2_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star@2x.png
+s415619424.540140
+e415619424.543089
+r1
+xCpResource
+xKDRatingView/Images/yellow/1:2_star@2x.png
+xBuild/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star@2x.png123"CpResource KDRatingView/Images/yellow/1:2_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star@2x.png3a598a60d9c5b841^31098b60d9c5b841^---0#0#1#-19%DVTDocumentLocation2@126"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star@2x.png003890e4deffdf42^658"CpResource KDRatingView/Images/yellow/1:2_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:2_star@2x.png    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/yellow/1:2_star@2x.png /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app36"2BF0133D-D278-4DC3-9090-6BC2923B3E24-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCpResource KDRatingView/Images/yellow/1:4_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star.png
+s415619424.526870
+e415619424.530342
+r1
+xCpResource
+xKDRatingView/Images/yellow/1:4_star.png
+xBuild/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy Build/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star.png117"CpResource KDRatingView/Images/yellow/1:4_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star.pngb6f28660d9c5b841^62d68760d9c5b841^---0#0#1#-19%DVTDocumentLocation2@123"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star.png003890e4deffdf42^649"CpResource KDRatingView/Images/yellow/1:4_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star.png    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/yellow/1:4_star.png /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app36"DA986B3B-2BB2-45DD-AC62-A1749C121031-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCpResource KDRatingView/Images/yellow/1:4_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star@2x.png
+s415619424.513193
+e415619424.516509
+r1
+xCpResource
+xKDRatingView/Images/yellow/1:4_star@2x.png
+xBuild/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star@2x.png123"CpResource KDRatingView/Images/yellow/1:4_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star@2x.png1d728360d9c5b841^52468460d9c5b841^---0#0#1#-19%DVTDocumentLocation2@126"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star@2x.png003890e4deffdf42^658"CpResource KDRatingView/Images/yellow/1:4_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1:4_star@2x.png    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/yellow/1:4_star@2x.png /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app36"C1B7C29F-8F71-4D0B-83AB-293D819A68BB-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCpResource KDRatingView/Images/yellow/1_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1_star@2x.png
+s415619424.531816
+e415619424.534668
+r1
+xCpResource
+xKDRatingView/Images/yellow/1_star@2x.png
+xBuild/Products/Debug-iphonesimulator/KDRatingView.app/1_star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy Build/Products/Debug-iphonesimulator/KDRatingView.app/1_star@2x.png119"CpResource KDRatingView/Images/yellow/1_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1_star@2x.pngbd398860d9c5b841^65e08860d9c5b841^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/1_star@2x.png003890e4deffdf42^652"CpResource KDRatingView/Images/yellow/1_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/1_star@2x.png    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/yellow/1_star@2x.png /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app36"0F932A96-7155-4D02-9B59-897C7EB180A4-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCpResource KDRatingView/Images/yellow/3:4_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star.png
+s415619424.517763
+e415619424.521221
+r1
+xCpResource
+xKDRatingView/Images/yellow/3:4_star.png
+xBuild/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy Build/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star.png117"CpResource KDRatingView/Images/yellow/3:4_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star.png6aa18460d9c5b841^116f8560d9c5b841^---0#0#1#-19%DVTDocumentLocation2@123"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star.png003890e4deffdf42^649"CpResource KDRatingView/Images/yellow/3:4_star.png Build/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star.png    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/yellow/3:4_star.png /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app36"72DD03CE-6FC6-4D60-A717-6453E42D2584-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CCpResource KDRatingView/Images/yellow/3:4_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star@2x.png
+s415619424.512101
+e415619424.540906
+r1
+xCpResource
+xKDRatingView/Images/yellow/3:4_star@2x.png
+xBuild/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star@2x.png123"CpResource KDRatingView/Images/yellow/3:4_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star@2x.pnga92f8360d9c5b841^b77a8a60d9c5b841^---0#0#1#-19%DVTDocumentLocation2@126"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star@2x.png003890e4deffdf42^658"CpResource KDRatingView/Images/yellow/3:4_star@2x.png Build/Products/Debug-iphonesimulator/KDRatingView.app/3:4_star@2x.png    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/Images/yellow/3:4_star@2x.png /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app36"54AB6C39-3FA7-4351-B279-E7F254F0B5FA-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CGenerateDSYMFile /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app.dSYM /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/KDRatingView
+s415619424.438965
+e415619424.503593
+r1
+xGenerateDSYMFile
+x/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app.dSYM
+x/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/KDRatingView
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Generate /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app.dSYM142"GenerateDSYMFile Build/Products/Debug-iphonesimulator/KDRatingView.app.dSYM Build/Products/Debug-iphonesimulator/KDRatingView.app/KDRatingViewc0767060d9c5b841^cceb8060d9c5b841^---0#0#1#-19%DVTDocumentLocation2@115"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app.dSYM003890e4deffdf42^697"GenerateDSYMFile Build/Products/Debug-iphonesimulator/KDRatingView.app.dSYM Build/Products/Debug-iphonesimulator/KDRatingView.app/KDRatingView    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/KDRatingView -o /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app.dSYM36"677B0C70-E9F9-4401-BE7F-8F77A33E4425-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CLd /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/KDRatingView normal i386
+s415619424.153881
+e415619424.400081
+r1
+xLd
+x/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/KDRatingView
+xnormal
+xi386
+d/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDRatingView.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/main.o
+d/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDAppDelegate.o
+d/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDMainViewController.o
+d/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDRatingView.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Link /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/KDRatingView81"Ld Build/Products/Debug-iphonesimulator/KDRatingView.app/KDRatingView normal i3860f812760d9c5b841^266d6660d9c5b841^---0#0#1#--1451"Ld Build/Products/Debug-iphonesimulator/KDRatingView.app/KDRatingView normal i386    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator -F/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator -filelist /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDRatingView.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=4.3 -framework UIKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/Objects-normal/i386/KDRatingView_dependency_info.dat -o /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/KDRatingView36"B8525BB1-FB54-4EAC-85B1-1BE4150E7736-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CProcessInfoPlistFile /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/Info.plist /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView-Info.plist
+s415619422.022001
+e415619422.039163
+r1
+xProcessInfoPlistFile
+x/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/Info.plist
+x/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Process /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView-Info.plist122"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/KDRatingView.app/Info.plist KDRatingView/KDRatingView-Info.plist3cbe055ed9c5b841^2a1f0a5ed9c5b841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView-Info.plist0000000000000000^759"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/KDRatingView.app/Info.plist KDRatingView/KDRatingView-Info.plist    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView-Info.plist -genpkginfo /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app/Info.plist36"87DC793F-7223-427D-A711-4E9767414ABE-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CProcessPCH /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/PrecompiledHeaders/KDRatingView-Prefix-dukhgqdiiugegffyzvxmyqbwkedq/KDRatingView-Prefix.pch.pch KDRatingView/KDRatingView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415619422.048554
+e415619422.985304
+r1
+xProcessPCH
+x/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/PrecompiledHeaders/KDRatingView-Prefix-dukhgqdiiugegffyzvxmyqbwkedq/KDRatingView-Prefix.pch.pch
+xKDRatingView/KDRatingView-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile KDRatingView/KDRatingView-Prefix.pch231"ProcessPCH Build/Intermediates/PrecompiledHeaders/KDRatingView-Prefix-dukhgqdiiugegffyzvxmyqbwkedq/KDRatingView-Prefix.pch.pch KDRatingView/KDRatingView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler499d0c5ed9c5b841^6a67fc5ed9c5b841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView-Prefix.pch0000000000000000^3520"ProcessPCH Build/Intermediates/PrecompiledHeaders/KDRatingView-Prefix-dukhgqdiiugegffyzvxmyqbwkedq/KDRatingView-Prefix.pch.pch KDRatingView/KDRatingView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/v2team/Desktop/kedar/KDRatingView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -iquote /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-generated-files.hmap -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-own-target-headers.hmap -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-all-target-headers.hmap -iquote /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/KDRatingView-project-headers.hmap -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/DerivedSources/i386 -I/Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/KDRatingView.build/Debug-iphonesimulator/KDRatingView.build/DerivedSources -F/Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/PrecompiledHeaders/KDRatingView-Prefix-dukhgqdiiugegffyzvxmyqbwkedq/KDRatingView-Prefix.pch.dia -MMD -MT dependencies -MF /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/PrecompiledHeaders/KDRatingView-Prefix-dukhgqdiiugegffyzvxmyqbwkedq/KDRatingView-Prefix.pch.d -c /Users/v2team/Desktop/kedar/KDRatingView/KDRatingView/KDRatingView-Prefix.pch -o /Users/v2team/Desktop/kedar/KDRatingView/Build/Intermediates/PrecompiledHeaders/KDRatingView-Prefix-dukhgqdiiugegffyzvxmyqbwkedq/KDRatingView-Prefix.pch.pch36"CC43D71B-33A9-40AB-96E6-C0CA2712D5C5-
+bA1861223-79EB-44C5-A9F9-8C392A85E676
+
+CProcessPCH /Users/v2team/Library/Developer/Xcode/DerivedData/KDRatingView-ftczeqdvqexfssdiogksskbooyew/Index/PrecompiledHeaders/KDRatingView-Prefix-hexxweyrrykxafagadgvplenzhul_ast/KDRatingView-Prefix.pch.pch KDRatingView/KDRatingView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/v2team/Desktop/kedar/KDRatingView/Build/Products/Debug-iphonesimulator/KDRatingView.app
+r0
+
