@@ -2,7 +2,7 @@
 //  KDAppDelegate.m
 //  KDRatingView
 //
-//  Created by Purva Paldhe on 04/03/14.
+//  Created by Kedar Desai on 04/03/14.
 //  Copyright (c) 2014 Kedar Desai. All rights reserved.
 //
 
