@@ -37,15 +37,15 @@
                 // place 0 star
                 [starImageView setImage:[UIImage imageNamed:@"grey_star"]];
                 
-            } else if ((tempRatingValue>0.25)&&(tempRatingValue<0.50)) {
+            } else if ((tempRatingValue>=0.25)&&(tempRatingValue<0.50)) {
                 // place 1/4 star
                 [starImageView setImage:[UIImage imageNamed:@"1:4_star"]];
                 
-            } else if ((tempRatingValue>0.50)&&(tempRatingValue<0.75)) {
+            } else if ((tempRatingValue>=0.50)&&(tempRatingValue<0.75)) {
                 // place 1/2 star
                 [starImageView setImage:[UIImage imageNamed:@"1:2_star"]];
                 
-            } else if ((tempRatingValue>0.75)&&(tempRatingValue<1.0)) {
+            } else if ((tempRatingValue>=0.75)&&(tempRatingValue<1.0)) {
                 // place 3/4 star
                 [starImageView setImage:[UIImage imageNamed:@"3:4_star"]];
             }
