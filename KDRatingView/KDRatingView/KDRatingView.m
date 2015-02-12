@@ -25,7 +25,7 @@
     double tempRatingValue = ratingValue;
     for (NSUInteger currentStar=0; currentStar<totalValue; currentStar++) { // Looping for each star(imageView) in the KDRatingView
         
-        UIImageView *starImageView = [[UIImageView alloc] initWithFrame:CGRectMake(xPos, self.frame.origin.y, self.frame.size.width/totalValue, self.frame.size.height)];
+        UIImageView *starImageView = [[UIImageView alloc] initWithFrame:CGRectMake(xPos, 0, self.frame.size.width/totalValue, self.frame.size.height)];
         
         if (tempRatingValue-1>=0) {
             tempRatingValue--;
